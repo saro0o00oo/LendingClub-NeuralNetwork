@@ -1,1 +1,2 @@
 # LendingClub-NeuralNetwork
+We will be using a subset of the LendingClub DataSet. LendingClub is a US peer-to-peer lending company. Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), can we build a model that can predict wether or nor a borrower will pay back their loan. Neural Network will be implemented for this project.
